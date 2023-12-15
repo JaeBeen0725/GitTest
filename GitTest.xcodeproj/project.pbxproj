@@ -16,6 +16,7 @@
 		6EDABCBE2B2C0BF9005D9E84 /* GitTestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EDABCBD2B2C0BF9005D9E84 /* GitTestTests.swift */; };
 		6EDABCC82B2C0BF9005D9E84 /* GitTestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EDABCC72B2C0BF9005D9E84 /* GitTestUITests.swift */; };
 		6EDABCCA2B2C0BF9005D9E84 /* GitTestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EDABCC92B2C0BF9005D9E84 /* GitTestUITestsLaunchTests.swift */; };
+		6EDABCD72B2C0E9E005D9E84 /* BranchFirst.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EDABCD62B2C0E9E005D9E84 /* BranchFirst.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		6EDABCC32B2C0BF9005D9E84 /* GitTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GitTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6EDABCC72B2C0BF9005D9E84 /* GitTestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestUITests.swift; sourceTree = "<group>"; };
 		6EDABCC92B2C0BF9005D9E84 /* GitTestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GitTestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6EDABCD62B2C0E9E005D9E84 /* BranchFirst.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BranchFirst.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				6EDABCAF2B2C0BF9005D9E84 /* Assets.xcassets */,
 				6EDABCB12B2C0BF9005D9E84 /* LaunchScreen.storyboard */,
 				6EDABCB42B2C0BF9005D9E84 /* Info.plist */,
+				6EDABCD62B2C0E9E005D9E84 /* BranchFirst.swift */,
 			);
 			path = GitTest;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				6EDABCAB2B2C0BF8005D9E84 /* ViewController.swift in Sources */,
 				6EDABCA72B2C0BF8005D9E84 /* AppDelegate.swift in Sources */,
+				6EDABCD72B2C0E9E005D9E84 /* BranchFirst.swift in Sources */,
 				6EDABCA92B2C0BF8005D9E84 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
